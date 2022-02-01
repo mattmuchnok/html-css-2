@@ -1,0 +1,51 @@
+/* #container {
+    position: relative;
+} */
+
+.one {
+    /* display: inline-block; */
+    width: 100vw;
+    height: 80px;
+    background-color: rgb(172, 171, 171);
+}
+
+.two {
+    /* display: inline-block; */
+    width: 100vw;
+    height: 200px;
+    background-color: rgb(255, 255, 255);
+}
+
+.three {
+    /* display: inline-block; */
+    width: 100vw;
+    height: 175px;
+    background-color: rgb(73, 137, 221);
+}
+
+.four {
+    width: 100vw;
+    height: 175px;
+    background-color: rgb(126, 214, 185);
+}
+
+.five {
+    width: 100vw;
+    height: 175px;
+    background-color: rgb(188, 231, 148);
+}
+
+.six {
+    width: 100vw;
+    height: 175px;
+    background-color: rgb(232, 248, 86);
+}
+
+.box {
+    width: 60px;
+    height: 60px;
+    background-color: rgb(73, 137, 221);
+    float: left;
+    margin-top: 10px;
+    margin-left: 10px;
+}

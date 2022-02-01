@@ -1,0 +1,87 @@
+/* #container {
+    position: relative;
+} */
+
+body {
+    text-align: center;
+    align-content: center;
+}
+
+div1 {
+    /* position: absolute; */
+    /* position: relative; */
+    display: inline-block;
+    width: 95vw;
+    height: 33vh;
+    background-color: rgb(255, 255, 255);
+    border-style: solid;
+    border-color: black;
+    border-width: thick;
+}
+
+div2 {
+    /* position: absolute; */
+    /* position: relative; */
+    display: inline-block;
+    width: 91vw;
+    padding: 20px;
+    border-style: dotted;
+}
+
+div3 {
+    /* position: absolute; */
+    display: inline-block;
+    align-content: center;
+    width: 65vw;
+    height: 33vh;
+    left: 50%;
+    background-color: #FFFFFF;
+    border-style: solid;
+    border-color: rgb(228, 223, 223);
+    box-shadow: 5px 5px 5px rgb(124, 123, 123)
+}
+
+divIn {
+    display: inline-block;
+    width: 80vw;
+    height: 20vh;
+    background-color: rgb(241, 237, 182);
+    box-shadow: 5px 5px 5px rgb(0, 0, 0);
+}
+
+h1 {
+    text-align: center;
+    align-content: center;
+    color: rgb(50, 0, 130);
+    font-family: time;
+}
+
+.box1 {
+    display: inline-block;
+    width: 7vh;
+    height: 10vw;
+    background-color: blueviolet;
+    float: left;
+    margin: 10px;
+}
+
+.box2 {
+    display: inline-block;
+    width: 30vw;
+    height: 25vh;
+    background-color: rgb(27, 122, 35);
+    float: left;
+    margin: 10px;
+}
+
+circle {
+    display: inline-block;
+    /* text-align: center;
+    align-content: center; */
+    width: 13vw;
+    height: 13vw;
+    border-radius: 50%;
+    background-color: rgb(107, 196, 231);
+    float: left;
+    margin: 10px;
+}
